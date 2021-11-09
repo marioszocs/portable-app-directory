@@ -5,3 +5,5 @@ Each branch includes one portable app for the easiest download.
 - Winrar
 - Google Chrome
 - Fractal (small video)
+- Notepad++
+- 7zip
