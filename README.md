@@ -7,3 +7,4 @@ Each branch includes one portable app for the easiest download.
 - Fractal (small video)
 - Notepad++
 - 7zip
+- KeyStore explorer v5.4.4 
